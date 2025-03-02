@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <h1>Welcome to My Vercel App</h1>
+      <h1>Welcome to SkateBlock</h1>
     </div>
   )
 }
